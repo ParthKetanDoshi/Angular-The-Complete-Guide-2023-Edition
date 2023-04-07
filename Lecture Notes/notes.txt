@@ -1,0 +1,8 @@
+Angular: The Complete Guide - Udemy Course
+
+Section 1:
+
+Angular is a JS framework that allows us to create reactive single page web applications
+JS changes the DOM changes the HTML elements changes what is visible on the screen
+
+AngularJS, Angular 2, Angular 4, … Angular 10, Angular 11, Angular 12
