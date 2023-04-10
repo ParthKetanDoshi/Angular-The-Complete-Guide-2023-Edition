@@ -6,3 +6,5 @@ Angular is a JS framework that allows us to create reactive single page web appl
 JS changes the DOM changes the HTML elements changes what is visible on the screen
 
 AngularJS, Angular 2, Angular 4, … Angular 10, Angular 11, Angular 12
+
+Data Binding, Dynamic Content
